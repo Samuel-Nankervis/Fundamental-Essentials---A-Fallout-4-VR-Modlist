@@ -21,22 +21,23 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/Dylan-Perry/dp-modlists/main/wj_thumbnail-web.webp",
+      "image": "https://raw.githubusercontent.com/Samuel-Nankervis/Fundamental-Essentials---A-Fallout-4-VR-Modlist/main/ThumbnailFundamentalEssentials.webp",
       "readme": "https://docs.google.com/document/d/1PsdUIGhGYHsRMcx0RVNR5YvDCkvPnO3RVx1fndRC1fw/preview",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
       "machineURL": "FundamentalEssentials",
-      "discordURL": "https://discord.gg/wabbajack"
+      "discordURL": "https://discord.gg/3RqJbexXdR"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775
+      "Hash": "WXNibIkecIo=",
+      "Size": 39789040,
+      "NumberOfArchives": 338,
+      "SizeOfArchives": 84455695889,
+      "NumberOfInstalledFiles": 34138,
+      "SizeOfInstalledFiles": 90894763794,
+      "TotalSize": 175350459683
     },
-    "version": "1.0.0"
+    "version": "1.5.1"
   }
 ]
 
