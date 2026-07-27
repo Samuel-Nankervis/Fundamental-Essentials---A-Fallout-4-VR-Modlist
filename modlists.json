@@ -21,7 +21,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/Samuel-Nankervis/Fundamental-Essentials---A-Fallout-4-VR-Modlist/main/ThumbnailFundamentalEssentials.webp",
+      "image": "https://raw.githubusercontent.com/Samuel-Nankervis/Fundamental-Essentials---A-Fallout-4-VR-Modlist/ThumbnailFundamentalEssentials.webp",
       "readme": "https://docs.google.com/document/d/1PsdUIGhGYHsRMcx0RVNR5YvDCkvPnO3RVx1fndRC1fw/preview",
       "download": "https://authored-files.wabbajack.org/Fallout 4 VR Fundamental Essentials.wabbajack_ff6423ec-8ca5-4de3-a3c8-5f3e6c8645a2",
       "machineURL": "FundamentalEssentials",
