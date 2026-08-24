@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Fundamental Essentials",
-    "description": "A highly configurable vanilla plus modlist similar to the FUS modlist for Skyrim VR. It includes three profiles ranging from the bare minimum to get Fallout 4 VR in a good working state to a fully customized modlist with graphical and gameplay enhancements. This is originally a fork of Gingas VR\u0027s Essentials Overhaul, so be sure to check that out if you want a less vanilla survival experience.",
+    "description": "A highly configurable vanilla plus modlist similar to the FUS modlist for Skyrim VR. It includes four profiles ranging from the bare minimum to get Fallout 4 VR in a good working state to a fully customized modlist with graphical and gameplay enhancements. This is originally a fork of Gingas VR\u0027s Essentials Overhaul, so be sure to check that out if you want a less vanilla survival experience.",
     "author": "Console Peasant Refugee",
     "maintainers": [
       "github/Samuel-Nankervis"
@@ -23,21 +23,21 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Samuel-Nankervis/Fundamental-Essentials---A-Fallout-4-VR-Modlist/main/ThumbnailFundamentalEssentials.webp",
       "readme": "https://docs.google.com/document/d/1PsdUIGhGYHsRMcx0RVNR5YvDCkvPnO3RVx1fndRC1fw/preview",
-      "download": "https://authored-files.wabbajack.org/Fallout 4 VR Fundamental Essentials.wabbajack_c79e30cd-694c-4fc4-b058-b566b3a9cc26",
+      "download": "https://authored-files.wabbajack.org/Fallout 4 VR Fundamental Essentials.wabbajack_366289b7-0860-4d51-9a7a-2fc271b930ec",
       "machineURL": "FundamentalEssentials",
       "discordURL": "https://discord.gg/3RqJbexXdR"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "de3uC9YrvPY=",
-      "Size": 39800474,
-      "NumberOfArchives": 340,
-      "SizeOfArchives": 84446644574,
-      "NumberOfInstalledFiles": 34167,
-      "SizeOfInstalledFiles": 90831603126,
-      "TotalSize": 175278247700
+      "Hash": "rmNA5sagaiw=",
+      "Size": 39806511,
+      "NumberOfArchives": 347,
+      "SizeOfArchives": 97968165786,
+      "NumberOfInstalledFiles": 33992,
+      "SizeOfInstalledFiles": 109272320332,
+      "TotalSize": 207240486118
     },
-    "version": "1.5.2"
+    "version": "1.6"
   }
 ]
 
